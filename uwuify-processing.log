@@ -1,0 +1,114 @@
+e557818ac7189b/index.md
+Processing: /tmp/repo-khkoUA/files/ko/conflicting/learn_web_development/core/styling_basics_b957eec7deaf1ea2b20721d6838ea6e1/index.md
+Processing: /tmp/repo-khkoUA/files/ko/conflicting/learn_web_development/core/scripting/index.md
+Processing: /tmp/repo-khkoUA/files/ko/conflicting/learn_web_development/core/styling_basics/basic_selectors/index.md
+Processing: /tmp/repo-khkoUA/files/ko/conflicting/learn_web_development/core/styling_basics/what_is_css/index.md
+Processing: /tmp/repo-khkoUA/files/ko/conflicting/learn_web_development/core/styling_basics/getting_started/index.md
+Processing: /tmp/repo-khkoUA/files/ko/conflicting/learn_web_development/core/styling_basics/backgrounds_and_borders/index.md
+Processing: /tmp/repo-khkoUA/files/ko/conflicting/learn_web_development/core/styling_basics/index.md
+Processing: /tmp/repo-khkoUA/files/ko/conflicting/learn_web_development/core/structuring_content/html_table_basics/index.md
+Processing: /tmp/repo-khkoUA/files/ko/conflicting/learn_web_development/core/structuring_content/index.md
+Processing: /tmp/repo-khkoUA/files/ko/conflicting/learn_web_development/core/scripting_41cf930b8cfd2b83c76f8086a5e24792/index.md
+Processing: /tmp/repo-khkoUA/files/ko/conflicting/learn_web_development/core/css_layout/introduction/index.md
+Processing: /tmp/repo-khkoUA/files/ko/games/introduction/index.md
+Processing: /tmp/repo-khkoUA/files/ko/games/tutorials/2d_breakout_game_pure_javascript/mouse_controls/index.md
+Processing: /tmp/repo-khkoUA/files/ko/games/tutorials/2d_breakout_game_pure_javascript/track_the_score_and_win/index.md
+Processing: /tmp/repo-khkoUA/files/ko/games/tutorials/2d_breakout_game_pure_javascript/game_over/index.md
+Processing: /tmp/repo-khkoUA/files/ko/games/tutorials/2d_breakout_game_pure_javascript/paddle_and_keyboard_controls/index.md
+Processing: /tmp/repo-khkoUA/files/ko/games/tutorials/2d_breakout_game_pure_javascript/index.md
+Processing: /tmp/repo-khkoUA/files/ko/games/tutorials/2d_breakout_game_pure_javascript/move_the_ball/index.md
+Processing: /tmp/repo-khkoUA/files/ko/games/tutorials/2d_breakout_game_pure_javascript/bounce_off_the_walls/index.md
+Processing: /tmp/repo-khkoUA/files/ko/games/tutorials/2d_breakout_game_pure_javascript/create_the_canvas_and_draw_on_it/index.md
+Processing: /tmp/repo-khkoUA/files/ko/games/tutorials/2d_breakout_game_pure_javascript/collision_detection/index.md
+Processing: /tmp/repo-khkoUA/files/ko/games/tutorials/2d_breakout_game_pure_javascript/finishing_up/index.md
+Processing: /tmp/repo-khkoUA/files/ko/games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field/index.md
+Processing: /tmp/repo-khkoUA/files/ko/games/tutorials/2d_breakout_game_phaser/the_score/index.md
+Processing: /tmp/repo-khkoUA/files/ko/games/tutorials/2d_breakout_game_phaser/index.md
+Processing: /tmp/repo-khkoUA/files/ko/games/tutorials/index.md
+Processing: /tmp/repo-khkoUA/files/ko/games/index.md
+Processing: /tmp/repo-khkoUA/docs/orphaned_and_conflicting.md
+Processing: /tmp/repo-khkoUA/docs/zh-cn/translation-guide.md
+Processing: /tmp/repo-khkoUA/docs/zh-cn/glossary.md
+Processing: /tmp/repo-khkoUA/docs/ja/README.md
+Processing: /tmp/repo-khkoUA/docs/ru/README.md
+Processing: /tmp/repo-khkoUA/docs/README.md
+Processing: /tmp/repo-khkoUA/docs/zh-tw/translation-guide.md
+Processing: /tmp/repo-khkoUA/docs/es/README.md
+Processing: /tmp/repo-khkoUA/docs/ko/faq.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/mozilla/Mozilla_Add-ons_WebExtensions_API_menus_create.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/learn/Learn_Forms_Sending_and_retrieving_form_data.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/learn/Learn_Server-side_Express_Nodejs_Introduction.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/learn/Learn_Server-side_Django_Authentication.md
+Batch starting at 32897 completed. Progress: 32953/33019 files processed
+Progress: 32953/33019 files processed (Errors: 32953, Changed: 0)
+Processing batch starting at 32961
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/learn/Learn_HTML_Introduction_to_HTML_Debugging_HTML.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/learn/Learn_Common_questions_Tools_and_setup_What_software_do_I_need.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/learn/Learn_Common_questions_Web_mechanics_Pages_sites_servers_and_search_engines.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/learn/Learn_HTML_Introduction_to_HTML_Document_and_website_structure.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/learn/Learn_Tools_and_testing_Client-side_JavaScript_frameworks_Vue_first_component.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/learn/Learn_Server-side_Django_web_application_security.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/learn/Learn_JavaScript_Client-side_web_APIs_Client-side_storage.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/learn/Learn_Server-side_First_steps_Website_security.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/learn/Learn_Common_questions_Tools_and_setup_Upload_files_to_a_web_server.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_Accessibility_ARIA_Roles_dialog_role.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_API_MediaDevices_getUserMedia.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_API_Service_Worker_API_Using_Service_Workers.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_CSS_CSS_images_Using_CSS_gradients.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_API_WebSockets_API_Writing_WebSocket_servers.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_JavaScript_Reference_Lexical_grammar.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_API_HTML_Drag_and_Drop_API_Drag_operations.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_HTML_Element_input.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_JavaScript_Reference_Operators_delete.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_CSS_CSS_flexible_box_layout_Aligning_items_in_a_flex_container.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_CSS_before.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_API_Window_pageYOffset.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_API_Node_insertBefore.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_API_Web_Workers_API_Using_web_workers.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_HTML_Element_select.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_CSS_box-shadow.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_CSS_CSS_colors_Applying_color.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_CSS_basic-shape.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_API_WebGL_API_WebGL_best_practices.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_HTML_Element_area.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_JavaScript_Reference_Global_Objects_RegExp_exec.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_API_Web_Storage_API_Using_the_Web_Storage_API.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_CSS_display.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_HTML_Element_tbody.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_JavaScript_Reference_Statements_trycatch.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_Guide_Audio_and_video_delivery_Adding_captions_and_subtitles_to_HTML5_video.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_CSS_font-family.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_API_IndexedDB_API_Basic_Terminology.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_HTTP_Headers_Set-Cookie.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_HTML_Element_audio.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/web/Web_API_Window_window.md
+Processing: /tmp/repo-khkoUA/docs/ko/fully_untranslated_files/mdn/MDN_Writing_guidelines_Howto_Write_an_API_reference_Sidebars.md
+Processing: /tmp/repo-khkoUA/docs/ko/README.md
+Processing: /tmp/repo-khkoUA/docs/ko/guides/github-actions-guide.md
+Processing: /tmp/repo-khkoUA/docs/ko/guides/markdown-guide.md
+Processing: /tmp/repo-khkoUA/docs/ko/guides/etc-guide.md
+Processing: /tmp/repo-khkoUA/docs/ko/guides/macro-guide.md
+Processing: /tmp/repo-khkoUA/docs/ko/guides/organizer-guide.md
+Processing: /tmp/repo-khkoUA/docs/ko/guides/glossary-guide.md
+Processing: /tmp/repo-khkoUA/docs/ko/guides/archived/markdown-conversion-guide.md
+Processing: /tmp/repo-khkoUA/docs/ko/guides/archived/html-guide.md
+Processing: /tmp/repo-khkoUA/docs/ko/guides/meta-data-guide.md
+Processing: /tmp/repo-khkoUA/docs/ko/guides/translation-guide.md
+Processing: /tmp/repo-khkoUA/CODE_OF_CONDUCT.md
+Processing: /tmp/repo-khkoUA/PEERS_GUIDELINES.md
+Processing: /tmp/repo-khkoUA/README.md
+Processing: /tmp/repo-khkoUA/LICENSE.md
+Processing: /tmp/repo-khkoUA/CONTRIBUTING.md
+Processing: /tmp/repo-khkoUA/.github/ISSUE_TEMPLATE/new-content-suggestion.md
+Processing: /tmp/repo-khkoUA/.github/PULL_REQUEST_TEMPLATE.md
+Batch starting at 32961 completed. Progress: 33012/33019 files processed
+Progress: 33012/33019 files processed (Errors: 33012, Changed: 0)
+Final git operations
+Creating summary markdown file
+Cleaning up temporary files
+Processing summary:
+- Total files found: 33019
+- Files processed: 33012
+- Files changed: 0
+- Errors encountered: 33012
+Completed processing files
